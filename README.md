@@ -1,16 +1,21 @@
-## Hi there 👋
+# Victor
 
-<!--
-**victor-s2/victor-s2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor independente focado em produtos web, automacao e ferramentas de IA.
 
-Here are some ideas to get you started:
+## Em que trabalho
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Aplicacoes web modernas e dashboards operacionais
+- Integracoes, automacoes e fluxos que reduzem trabalho manual
+- Infraestrutura leve para colocar produtos em producao com seguranca
+
+## Stack atual
+
+`TypeScript` `React` `Next.js` `Node.js` `Supabase` `Docker`
+
+## Princípios
+
+Construir interfaces claras, entregar iteracoes pequenas e manter a operacao simples.
+
+---
+
+Aberto a trocar ideias sobre produtos digitais, automacao e engenharia de software.
