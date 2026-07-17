@@ -1,12 +1,12 @@
 # Victor
 
-Desenvolvedor independente focado em produtos web, automacao e ferramentas de IA.
+Desenvolvedor independente focado em produtos web, automação e ferramentas de IA.
 
 ## Em que trabalho
 
-- Aplicacoes web modernas e dashboards operacionais
-- Integracoes, automacoes e fluxos que reduzem trabalho manual
-- Infraestrutura leve para colocar produtos em producao com seguranca
+- Aplicações web modernas e dashboards operacionais
+- Integrações, automações e fluxos que reduzem trabalho manual
+- Infraestrutura leve para colocar produtos em produção com segurança
 
 ## Stack atual
 
@@ -14,8 +14,8 @@ Desenvolvedor independente focado em produtos web, automacao e ferramentas de IA
 
 ## Princípios
 
-Construir interfaces claras, entregar iteracoes pequenas e manter a operacao simples.
+Construir interfaces claras, entregar iterações pequenas e manter a operação simples.
 
 ---
 
-Aberto a trocar ideias sobre produtos digitais, automacao e engenharia de software.
+Aberto a trocar ideias sobre produtos digitais, automação e engenharia de software.
