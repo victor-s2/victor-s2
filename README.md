@@ -57,7 +57,7 @@ Eu construo produtos de ponta a ponta: da interface e experiência do usuário a
       <h3>🦷 ZKodonto</h3>
       <p>Plataforma de gestão odontológica com agenda, operação clínica e experiência premium para equipes e pacientes.</p>
       <p><code>TanStack Start</code> <code>React 19</code> <code>Supabase</code> <code>TypeScript</code></p>
-      <a href="https://kindred-connect-sigma.vercel.app"><strong>Abrir produto ↗</strong></a>
+      <strong>Produto privado</strong>
     </td>
     <td width="50%" valign="top">
       <h3>🛵 ZK Delivery</h3>
@@ -71,13 +71,13 @@ Eu construo produtos de ponta a ponta: da interface e experiência do usuário a
       <h3>🖥️ Server Maestro</h3>
       <p>Dashboard operacional para centralizar serviços, indicadores e rotinas administrativas em uma interface objetiva.</p>
       <p><code>React</code> <code>TypeScript</code> <code>Supabase</code> <code>Vitest</code></p>
-      <a href="https://zkservicos.vercel.app"><strong>Abrir dashboard ↗</strong></a>
+      <strong>Produto privado</strong>
     </td>
     <td width="50%" valign="top">
       <h3>🏭 Sherman Brasil</h3>
       <p>Experiência institucional B2B para produtos de sinalização, faixas refletivas e filmes ópticos.</p>
       <p><code>Next.js 16</code> <code>React 19</code> <code>TypeScript</code> <code>Vercel</code></p>
-      <a href="https://shermanbrasil.vercel.app"><strong>Visitar site ↗</strong></a>
+      <strong>Projeto privado</strong>
     </td>
   </tr>
 </table>
@@ -114,12 +114,6 @@ Eu construo produtos de ponta a ponta: da interface e experiência do usuário a
 <div align="center">
   <a href="https://github.com/victor-s2">
     <img src="https://img.shields.io/badge/GitHub-victor--s2-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://kindred-connect-sigma.vercel.app">
-    <img src="https://img.shields.io/badge/Produto-ZKodonto-22d3ee?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="ZKodonto" />
-  </a>
-  <a href="https://shermanbrasil.vercel.app">
-    <img src="https://img.shields.io/badge/Web-Sherman+Brasil-f59e0b?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="Sherman Brasil" />
   </a>
 </div>
 
