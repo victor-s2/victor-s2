@@ -63,7 +63,7 @@ Eu construo produtos de ponta a ponta: da interface e experiência do usuário a
       <h3>🛵 ZK Delivery</h3>
       <p>Operação de delivery em uma única interface, com mapas, relatórios e experiências web, PWA e desktop.</p>
       <p><code>React</code> <code>Supabase</code> <code>Leaflet</code> <code>Electron</code></p>
-      <a href="https://zk-delivery.vercel.app"><strong>Abrir produto ↗</strong></a>
+      <strong>Private build · produto em desenvolvimento</strong>
     </td>
   </tr>
   <tr>
@@ -115,8 +115,8 @@ Eu construo produtos de ponta a ponta: da interface e experiência do usuário a
   <a href="https://github.com/victor-s2">
     <img src="https://img.shields.io/badge/GitHub-victor--s2-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://zk-delivery.vercel.app">
-    <img src="https://img.shields.io/badge/Produto-ZK+Delivery-22d3ee?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="ZK Delivery" />
+  <a href="https://kindred-connect-sigma.vercel.app">
+    <img src="https://img.shields.io/badge/Produto-ZKodonto-22d3ee?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="ZKodonto" />
   </a>
   <a href="https://shermanbrasil.vercel.app">
     <img src="https://img.shields.io/badge/Web-Sherman+Brasil-f59e0b?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="Sherman Brasil" />
