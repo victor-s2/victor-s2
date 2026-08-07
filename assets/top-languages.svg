@@ -1,0 +1,45 @@
+<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Top languages</title>
+  <desc id="desc">TypeScript 93.6%, JavaScript 4.3%, PLpgSQL 1.1%, CSS and others 1.0%</desc>
+  <style>
+    .title { font: 600 16px 'Segoe UI', Ubuntu, sans-serif; fill: #22d3ee; }
+    .label { font: 600 12px 'Segoe UI', Ubuntu, sans-serif; fill: #c9d1d9; }
+    .value { font: 400 11px 'Segoe UI', Ubuntu, sans-serif; fill: #8b949e; }
+    .meta { font: 400 10px 'Segoe UI', Ubuntu, sans-serif; fill: #6e7681; }
+  </style>
+  <rect x="0.5" y="0.5" width="494" height="194" rx="4" fill="#0d1117" stroke="#30363d"/>
+  <text x="25" y="34" class="title">Top Languages</text>
+  <text x="470" y="34" text-anchor="end" class="meta">14 repositories</text>
+
+  <rect x="25" y="54" width="445" height="9" rx="4.5" fill="#21262d"/>
+  <rect x="25" y="54" width="417" height="9" rx="4.5" fill="#3178c6"/>
+  <rect x="442" y="54" width="19" height="9" fill="#f1e05a"/>
+  <rect x="461" y="54" width="5" height="9" fill="#336790"/>
+  <rect x="466" y="54" width="4" height="9" rx="2" fill="#8b949e"/>
+
+  <circle cx="30" cy="89" r="5" fill="#3178c6"/>
+  <text x="42" y="93" class="label">TypeScript</text>
+  <text x="219" y="93" text-anchor="end" class="value">93.6%</text>
+
+  <circle cx="276" cy="89" r="5" fill="#f1e05a"/>
+  <text x="288" y="93" class="label">JavaScript</text>
+  <text x="465" y="93" text-anchor="end" class="value">4.3%</text>
+
+  <circle cx="30" cy="123" r="5" fill="#336790"/>
+  <text x="42" y="127" class="label">PLpgSQL</text>
+  <text x="219" y="127" text-anchor="end" class="value">1.1%</text>
+
+  <circle cx="276" cy="123" r="5" fill="#563d7c"/>
+  <text x="288" y="127" class="label">CSS</text>
+  <text x="465" y="127" text-anchor="end" class="value">0.7%</text>
+
+  <circle cx="30" cy="157" r="5" fill="#89e051"/>
+  <text x="42" y="161" class="label">Shell</text>
+  <text x="219" y="161" text-anchor="end" class="value">0.1%</text>
+
+  <circle cx="276" cy="157" r="5" fill="#8b949e"/>
+  <text x="288" y="161" class="label">Other</text>
+  <text x="465" y="161" text-anchor="end" class="value">0.2%</text>
+
+  <text x="25" y="182" class="meta">Calculated from the current codebase snapshot</text>
+</svg>
